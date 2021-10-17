@@ -1,4 +1,4 @@
-# ahipping charge calculator program
+# shipping charge calculator program
 def main():
     #local variables
     weight = float(input('Enter the number of pounds your package weighs: '))
